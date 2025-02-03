@@ -1,0 +1,3 @@
+1;Jamal;01777777777;jamal@gmail.com;Male;BD;01777777771;
+2;Kabul;01888888888;Kabul@gmail.com;Male;BD;01888888881;
+3;Rohan;01999999999;rohim@gmail.com;Male;BD;01999999999;
