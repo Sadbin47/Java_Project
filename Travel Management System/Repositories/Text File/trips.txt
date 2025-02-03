@@ -1,4 +1,0 @@
-Trip ID: 1
-Destination: Rajshahi
-Status: Done
-Cost: 2500
